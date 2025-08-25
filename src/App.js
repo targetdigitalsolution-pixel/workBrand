@@ -16,6 +16,7 @@ import FaqsPage from "./pages/FaqsPage.jsx";
 import ContactUsPage from "./pages/Contact-UsPage.jsx";
 import CareersPage from "./pages/CareersPage.jsx";
 import LocationPage from "./pages/LocationPage.jsx";
+import ServicesPage from "./pages/ServicesPage.jsx";
 
 import "../src/style.css";
 import ComingSoonPage from "./pages/CamingSoonPage.jsx";
@@ -63,6 +64,7 @@ const App = () => {
           <Route path="career" element={<CareersPage />} />
           <Route path="location" element={<LocationPage />} />
           <Route path="coming-soon" element={<ComingSoonPage />} />
+          <Route path="services" element={<ServicesPage />} />
         </Routes>
       </ResetScroll>
     </div>
