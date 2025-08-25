@@ -67,8 +67,8 @@ const ServiceFeatures = () => {
       >
         <MainTitle
           title="Why Choose"
-          subdescription="Our Services"
-          description="Comprehensive features designed to support your business growth and success"
+          subdescription="WorkBrand"
+          description="We're Your One-Stop Platform for empowering entrepreneurs, startups, and business leaders"
         />
       </motion.div>
 
@@ -95,6 +95,28 @@ const ServiceFeatures = () => {
               </p>
             </div>
           ))}
+        </div>
+      </motion.div>
+
+      <motion.div
+        className="mt-16 text-center"
+        initial="hidden"
+        whileInView="show"
+        viewport={{ once: true }}
+        variants={fadeInUp}
+      >
+        <div className="px-4 lg:px-0">
+          <p className="mb-4 text-lg font-semibold leading-relaxed text-gray-600">
+            From launching an idea to scaling your business — we support every step
+          </p>
+          
+          <p className="mb-4 text-lg leading-relaxed text-gray-600">
+            <span className="font-bold">Office Spaces | Consulting & Training | Media & Studio Services</span>
+          </p>
+          
+          <p className="text-lg leading-relaxed text-gray-600">
+            Our spaces aren't just offices — they're full business ecosystems built for growth and action. We simplify the tough parts so you can focus on making an impact.
+          </p>
         </div>
       </motion.div>
     </section>

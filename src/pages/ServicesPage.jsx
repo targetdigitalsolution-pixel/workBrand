@@ -7,7 +7,7 @@ import ServiceDetailSection from "../component/Services/ServiceDetailSection";
 import ServiceFeatures from "../component/Services/ServiceFeatures";
 import RightPlace from "../component/sharedComponents/RightPlace";
 import OurImpactSection from "../component/sharedComponents/OurImpactSection";
-import servicesHero from "../assets/images/office_space.webp";
+import servicesHero from "../assets/images/Servies_img.webp";
 
 const ServicesPage = () => {
   return (
@@ -16,7 +16,7 @@ const ServicesPage = () => {
       <HeroSection
         backgroundImage={servicesHero}
         title="Our Services"
-        description="Comprehensive business solutions designed to accelerate your growth. From office spaces to digital services, we provide everything you need to succeed."
+        description="From launching an idea to scaling your business — we support every step with comprehensive solutions designed for real growth."
       />
       <ServicesGrid />
       <ServiceDetailSection />
