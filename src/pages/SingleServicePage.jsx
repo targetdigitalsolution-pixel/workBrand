@@ -8,6 +8,8 @@ import ServiceFeaturesList from "../component/SingleService/ServiceFeaturesList"
 import ServiceGallery from "../component/SingleService/ServiceGallery";
 import ServicePricing from "../component/SingleService/ServicePricing";
 import ServiceBooking from "../component/SingleService/ServiceBooking";
+import WhyChooseVirtualOffice from "../component/SingleService/WhyChooseVirtualOffice";
+import MapSection from "../component/SingleService/MapSection";
 import RightPlace from "../component/sharedComponents/RightPlace";
 
 // Service data
@@ -286,11 +288,8 @@ const SingleServicePage = () => {
         description={service.description}
       />
       <ServiceHeroDetails service={service} />
-      <ServiceFeaturesList features={service.features} />
-      <ServiceGallery gallery={service.gallery} title={service.title} />
-      <ServicePricing pricing={service.pricing} serviceTitle={service.title} />
-      <ServiceBooking serviceTitle={service.title} />
-      <RightPlace />
+      <WhyChooseVirtualOffice />
+      <MapSection />
       <Footer />
     </section>
   );
