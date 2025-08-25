@@ -1,9 +1,21 @@
 import React from "react";
 import LightButton from "../sharedComponents/LightButton";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 
 const ServicesHeroCard = ({ service }) => {
   const navigate = useNavigate();
+  
+  // Create slug from service title
+  const createSlug = (title) => {
+    return title.toLowerCase()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w-]+/g, '')
+      .replace(/--+/g, '-')
+      .replace(/^-+/, '')
+      .replace(/-+$/, '');
+  };
+  
+  const serviceSlug = createSlug(service.title);
 
   return (
     <div className="overflow-hidden transition-shadow duration-300 bg-white rounded-lg shadow-md">
@@ -16,9 +28,11 @@ const ServicesHeroCard = ({ service }) => {
       </div>
 
       <div className="p-5">
-        <h3 className="mb-2 text-xl font-semibold text-left text-gray-800 cursor-pointer hover:text-custom-primary duration-300">
-          {service.title}
-        </h3>
+        <Link to={`/services/${serviceSlug}`}>
+          <h3 className="mb-2 text-xl font-semibold text-left text-gray-800 cursor-pointer hover:text-custom-primary duration-300">
+            {service.title}
+          </h3>
+        </Link>
         <p className="text-gray-600 mb-4 text-left h-[50px]">
           {service.description}
         </p>
@@ -26,7 +40,7 @@ const ServicesHeroCard = ({ service }) => {
           <LightButton
             text={service.buttonText}
             className="w-full sm:w-auto"
-            onClick={() => navigate("/coming-soon")}
+            onClick={() => navigate(`/services/${serviceSlug}`)}
           />
         </div>
       </div>
