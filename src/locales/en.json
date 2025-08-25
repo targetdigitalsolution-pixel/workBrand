@@ -1,0 +1,234 @@
+{
+  "Portal": "Portal",
+  "Consultations": "Consultations",
+  "Clients": "Clients",
+  "Careers": "Careers",
+  "Locations": "Locations",
+  "Coupon": "Coupon",
+
+  "TermsAndConditions": {
+    "AcceptanceofTerms": "Definitions",
+    "AcceptanceofTermsdec": "By accessing or using the services of Workbrand, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you must not use our services.",
+
+    "ServicesProvided": "Services Provided",
+    "ServicesProvideddec": "Workbrand offers branding, event management, and digital marketing services. The scope and details of any service will be defined in a formal agreement with the client.",
+
+    "UserResponsibilities": "User Responsibilities",
+    "UserResponsibilitieslist": [
+      "Provide accurate and updated information.",
+      "Comply with all applicable laws and regulations.",
+      "Respect intellectual property rights.",
+      "Do not misuse the services in any harmful manner."
+    ],
+    "IntellectualProperty": "Intellectual Property",
+    "IntellectualPropertydec": "All content, visuals, branding materials, and designs created by Workbrand are the intellectual property of the company unless otherwise agreed in writing. No content may be copied or reused without prior permission.",
+
+    "PaymentsandRefunds": "Payments and Refunds",
+    "PaymentsandRefundsdec": "All payments for services must be made in accordance with the agreed schedule. Workbrand does not offer refunds once a project has started, unless otherwise agreed.",
+
+    "Confidentiality": "Confidentiality",
+    "Confidentialitydec": "Any information shared between Workbrand and the client during the project will remain confidential and will not be shared with third parties without consent.",
+
+    "LimitationofLiability": "Limitation of Liability",
+    "LimitationofLiabilitydec": "Workbrand will not be held liable for any direct, indirect, or consequential loss or damage resulting from the use of our services or any delay/failure caused by factors beyond our control.",
+
+    "Modifications": "Modifications",
+    "Modificationsdec": "We reserve the right to change or update these terms at any time. Continued use of our services after changes implies acceptance of the new terms.",
+
+    "GoverningLaw": "Governing Law",
+    "GoverningLawdec": "These terms are governed by the laws of the Arab Republic of Egypt. Any disputes will be handled through Egyptian courts."
+  },
+  "Refundpolice": {
+    "RefundPolicy": "Refund Policy",
+    "RefundPolicydes": "We value transparency. Here's how our refund process works.",
+    "GeneralPolicy": "General Policy",
+    "GeneralPolicydes": "At Workbrand, we aim to deliver high-quality services tailored to each client. Due to the custom nature of our work, we generally do not offer refunds once a project has started.",
+    "BeforeProjectKickoff": "Before Project Kickoff",
+    "BeforeProjectKickoffdes": "If the client decides to cancel before any work has begun (before strategy sessions, designs, or deliverables), a partial refund may be issued — excluding any administrative or consultation fees.",
+    "AfterProjectStart": " After Project Start",
+    "AfterProjectStartdes": "Once a project has commenced (including planning, design drafts, or branding work), no refunds will be issued, regardless of project phase or status.",
+    "Exceptions": "Exceptions",
+    "Exceptionsdes": "Refunds may be considered under the following rare circumstances:",
+    "Exceptionslist": [
+      "The company fails to deliver the agreed-upon service or scope.",
+      "A mutual agreement between both parties is reached in writing.",
+      "Technical issues prevent project completion and are not resolved."
+    ],
+    "Exceptionsdes2": "Each case is reviewed individually and must be submitted within 7 days from the dispute or concern.",
+    "ClientResponsibilities": " Client Responsibilities",
+    "ClientResponsibilitiesdes": "To ensure fair evaluation, clients must:",
+    "ClientResponsibilitieslist": [
+      "Provide clear feedback during the process.",
+      "Respond to communication in a timely manner.",
+      "Cooperate as needed to move the project forward."
+    ],
+    " HowtoRequestaRefund": " How to Request a Refund",
+    "description": "If you believe you’re eligible for a refund, please contact us at:",
+    "description1": " 📧 support@workbrand.com",
+    "description2": " Include your name, project name, reason for refund, and any relevant documentation.",
+    "FinalDecision": " Final Decision",
+    "FinalDecisiondes": "Workbrand reserves the right to approve or deny refund requests after reviewing all information provided.",
+    "PolicyUpdates": " Policy Updates",
+    "PolicyUpdatesdes": "This Refund Policy may be updated without prior notice. Any changes will be reflected on this page."
+  },
+  "Privacypolicy": {
+    "Privacypolicy": "Privacy policy",
+    "Privacypolicydes": "Your privacy matters to us. Here's how we collect, use, and protect your data.",
+    "Introduction": "Introduction",
+    "Introductiondes": "At Workbrand, we are committed to protecting your personal information and your right to privacy. This Privacy Policy outlines how we collect, use, and protect the data you share with us through our website and services.",
+    "InformationWeCollect": " Information We Collect",
+    "InformationWeCollectdes": "We may collect the following types of information:",
+    "InformationWeCollectdeslist": [
+      "Personal Data (name, email, phone number) when you fill out a contact form or subscribe to our services.",
+      "Usage Data such as IP address, browser type, and pages visited.",
+      "Cookies to improve your browsing experience."
+    ],
+    "HowWeUseYourData": " How We Use Your Data",
+    "HowWeUseYourDatades": "We use your information to:",
+    "HowWeUseYourDatadeslist": [
+      "Respond to inquiries and provide customer support.",
+      "Personalize your experience on our website.",
+      "Send important updates, newsletters, or promotional materials (with your consent).",
+      "Improve our website and services."
+    ],
+    "HowWeProtectYourData": " How We Protect Your Data",
+    "HowWeProtectYourDatades": "Your data is stored securely using industry-standard measures to protect against loss, misuse, and unauthorized access.We never sell or share your personal information with third parties, except:",
+    "HowWeProtectYourDatadeslist": [
+      "To trusted service providers working on our behalf.",
+      "When required by law."
+    ],
+    "YourRights": " Your Rights",
+    "YourRightsdes": "You have the right to:",
+    "YourRightsdes1": "To exercise these rights, email us at:",
+    "YourRightsdes2": " 📧 privacy@workbrand.com",
+    "YourRightslist": [
+      "Access the data we hold about you.",
+      "Request correction or deletion of your data.",
+      "Opt-out of any communications at any time."
+    ],
+    "Cookies": "Cookies",
+    "Cookiesdes": "Our website uses cookies to enhance functionality. You can choose to disable cookies through your browser settings, though some features may not function properly.",
+    "Third-PartyLinks": " Third-Party Links",
+    "Third-PartyLinksdes": "Our website may contain links to other websites. We are not responsible for the privacy practices of other sites.",
+    "ChildrensPrivacy": "Childrens Privacy",
+    "ChildrensPrivacydes": "Our services are not intended for children under 13. We do not knowingly collect personal information from minors.",
+    "PolicyUpdates": " Policy Updates",
+    "PolicyUpdatesdes": "We may update this Privacy Policy from time to time. Changes will be posted on this page with a revised Last Updated date.",
+    "LastUpdatedJuly2025": "Last Updated: July 2025",
+    "LastUpdatedJuly2025des": "For any concerns or questions, please contact us at:",
+    "LastUpdatedJuly2025des1": " 📧 info@workbrand.com"
+  },
+  "ShippingPolice": {
+    "ShippingPolicy": "Shipping Policy",
+    "ShippingPolicydes": "We deliver your ideas — safely and on time.",
+    "OrderProcessingTime": " Order Processing Time",
+    "OrderProcessingTimelist": [
+      "All orders are processed within 1–3 business days after order confirmation.",
+      "If we are experiencing a high volume of orders, processing may take longer, and we will notify you accordingly."
+    ],
+    "ShippingAreas&Timeframes": "ShippingAreas&Timeframes",
+    "ShippingAreas&Timeframesdes": "We currently ship orders within Egypt, and internationally upon request.",
+    "ShippingAreas&Timeframeslist": [
+      "Cairo & Giza: 1–2 business days",
+      "Other governorates in Egypt: 2–5 business days",
+      "International shipping (on-demand): 5–10 business days depending on the destination"
+    ],
+    "ShippingAreas&Timeframesdes3": "⏱ Please note: Delivery times may vary due to public holidays, weather conditions, or courier service delays.",
+    "ShippingCosts": " Shipping Costs",
+    "ShippingCostslist": [
+      "Shipping fees are calculated based on the size, weight, and delivery location of your order.",
+      "All shipping charges are displayed clearly at checkout.",
+      "Free shipping may apply to selected offers or bulk orders."
+    ],
+    "TrackingYourOrder": " Tracking Your Order",
+    "TrackingYourOrderdes": "Once your order is shipped, we will send you a tracking number via email or WhatsApp so you can monitor your shipment in real-time.",
+    "DeliveryProblems": " Delivery Problems",
+    "DeliveryProblemsdes": "If your order is delayed, not delivered, or you face any issue, please contact our support team immediately:",
+    "DeliveryProblemsdes1": " 📧 shipping@workbrand.com",
+    "DeliveryProblemsdes2": " 📞 +20 100 123 4567",
+    "DamagedorLostPackages": " Damaged or Lost Packages",
+    "DamagedorLostPackageslist": [
+      "If your item arrives damaged, please contact us within 24 hours with photos of the product and packaging.",
+      "We will investigate and offer a replacement or refund depending on the situation."
+    ],
+    "SpecialShippingRequests": " Special Shipping Requests",
+    "SpecialShippingRequestsdes": "Need special handling, packaging, or scheduled delivery? Let us know during checkout, and we’ll do our best to accommodate your needs.",
+    "PolicyUpdates": " Policy Updates",
+    "PolicyUpdatesdes": "Workbrand reserves the right to update this shipping policy at any time. Please review this page regularly for any changes.",
+    "LastupdatedJuly2025": "Last updated: July 2025",
+    "LastupdatedJuly2025des": "📩 Contact us: info@workbrand.com"
+  },
+  "Faqs": {
+    "FAQs": "FAQs",
+    "FAQsdes": "Here are some of the most common questions people ask us. If you still need help, feel free to reach out.",
+    "questions": [
+      {
+        "title": "Whats the difference between a private office and a virtual office?",
+        "description": "A private office is a physical workspace you can use daily. A virtual office gives you a business address, mail handling, and legal services — without needing a physical space."
+      },
+      {
+        "title": "Can I register my company using your address?",
+        "description": "Yes! You can register your business legally at our strategic locations in Mohandessin or Nasr City."
+      },
+      {
+        "title": "Can I book the space for meetings only?",
+        "description": "Absolutely. You can reserve meeting rooms by the hour, even without a full-time office plan."
+      },
+      {
+        "title": "Can I start a company without renting a physical office?",
+        "description": "Yes, with our virtual office packages, you can establish your business legally and operate remotely."
+      },
+      {
+        "title": "Do you provide company formation services?",
+        "description": "Yes. We handle everything from commercial registration to tax ID setup, plus ongoing legal consultation."
+      },
+      {
+        "title": "Are your services suitable for startups?",
+        "description": "Definitely! Our solutions are designed for new businesses looking for flexibility, affordability, and professional support."
+      },
+      {
+        "title": "Do I need to commit to a long-term contract?",
+        "description": "Not at all. You can choose between monthly or yearly plans depending on what fits you best."
+      },
+      {
+        "title": "Do you offer website creation services?",
+        "description": "Yes! We offer an AI-powered tool to help you build your website easily — or you can request a custom design from our team."
+      },
+      {
+        "title": "Is customer support available?",
+        "description": "Of course. Our team is always available via WhatsApp or email to assist you whenever you need."
+      },
+      {
+        "title": "How do I get started?",
+        "description": "Simply fill out our form or contact us on WhatsApp — we’ll walk you through every step."
+      }
+    ]
+  },
+  "contactus": {
+    "contactus": "contactus",
+    "contactdes": "Say something to start a live chat!"
+  },
+  "underlineform": {
+    "FirstName": "First Name",
+    "LastName": "Last Name",
+    "Email": "Email",
+    "PhoneNumber": "Phone Number",
+    "Message": "Message"
+  },
+  "location": {
+    "title": "Locations",
+    "description": "Find our fully-equipped branches in prime business zones, designed to support your growth and productivity.",
+    "branches": [
+      {
+        "name": "Mohandessin Branch",
+        "hours": "10 AM - 6 PM",
+        "image": "viewgallery"
+      },
+      {
+        "name": "Nasr City Branch",
+        "hours": "10 AM - 6 PM",
+        "image": "Nasircity"
+      }
+    ]
+  }
+}
